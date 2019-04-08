@@ -1,6 +1,6 @@
 {
   "name": "amplify-docs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extends the AWS Amplify Framework with a new command for accessing the docs",
   "main": "index.js",
   "scripts": {
